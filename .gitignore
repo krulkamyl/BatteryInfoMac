@@ -1,0 +1,15 @@
+# Build artifacts
+.build/
+.swiftpm/
+BatteryInfoMac.app/
+dist/
+*.dmg
+*.dmg.sha256
+
+# macOS & IDE files
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.swp
+*~
